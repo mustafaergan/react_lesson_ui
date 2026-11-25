@@ -1,0 +1,19 @@
+# Node
+node_modules/
+dist/
+npm-debug.log*
+yarn-error.log
+
+# Derleme çıktıları (babel / webpack)
+/script.js
+/public/script.js
+
+# Editör
+.idea/
+.vscode/
+
+# Diğer
+*.log
+.env
+.DS_Store
+Thumbs.db
